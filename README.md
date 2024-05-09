@@ -1,7 +1,4 @@
-Hi, I’m Deepanshu.
-Computer Science Student.
-Living in Bhiwani.
-Currently a Begnner.
+
 
 
 <!---
